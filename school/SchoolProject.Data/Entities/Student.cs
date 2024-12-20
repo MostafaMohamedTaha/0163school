@@ -24,8 +24,6 @@ namespace SchoolProject.Data.Entities
         [InverseProperty("Students")]
         public virtual Department Department { get; set; }
     }
-
-
 }
 
 
