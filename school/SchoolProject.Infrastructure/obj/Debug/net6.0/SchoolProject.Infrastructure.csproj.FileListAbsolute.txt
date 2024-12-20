@@ -1,0 +1,15 @@
+D:\0p\0163school\school\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.deps.json
+D:\0p\0163school\school\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.dll
+D:\0p\0163school\school\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
+D:\0p\0163school\school\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Data.dll
+D:\0p\0163school\school\SchoolProject.Infrastructure\bin\Debug\net6.0\SchoolProject.Data.pdb
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.AssemblyReference.cache
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.AssemblyInfoInputs.cache
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.AssemblyInfo.cs
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.csproj.CopyComplete
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.dll
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\refint\SchoolProject.Infrastructure.dll
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\SchoolProject.Infrastructure.pdb
+D:\0p\0163school\school\SchoolProject.Infrastructure\obj\Debug\net6.0\ref\SchoolProject.Infrastructure.dll

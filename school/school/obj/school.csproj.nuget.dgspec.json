@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\0p\\0163school\\school\\school\\school.csproj": {}
+  },
+  "projects": {
+    "D:\\0p\\0163school\\school\\SchoolProject.Core\\SchoolProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0p\\0163school\\school\\SchoolProject.Core\\SchoolProject.Core.csproj",
+        "projectName": "SchoolProject.Core",
+        "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Core\\SchoolProject.Core.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\0p\\0163school\\school\\SchoolProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj"
+              },
+              "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj"
+              },
+              "D:\\0p\\0163school\\school\\SchoolProject.Services\\SchoolProject.Services.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Services\\SchoolProject.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj",
+        "projectName": "SchoolProject.Data",
+        "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\0p\\0163school\\school\\SchoolProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+        "projectName": "SchoolProject.Infrastructure",
+        "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0p\\0163school\\school\\SchoolProject.Services\\SchoolProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0p\\0163school\\school\\SchoolProject.Services\\SchoolProject.Services.csproj",
+        "projectName": "SchoolProject.Services",
+        "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Services\\SchoolProject.Services.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\0p\\0163school\\school\\SchoolProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Data\\SchoolProject.Data.csproj"
+              },
+              "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0p\\0163school\\school\\school\\school.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0p\\0163school\\school\\school\\school.csproj",
+        "projectName": "school",
+        "projectPath": "D:\\0p\\0163school\\school\\school\\school.csproj",
+        "packagesPath": "C:\\Users\\mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\0p\\0163school\\school\\school\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\0p\\0163school\\school\\SchoolProject.Core\\SchoolProject.Core.csproj": {
+                "projectPath": "D:\\0p\\0163school\\school\\SchoolProject.Core\\SchoolProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
