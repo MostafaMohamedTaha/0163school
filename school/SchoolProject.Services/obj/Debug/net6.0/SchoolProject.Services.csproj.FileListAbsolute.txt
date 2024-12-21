@@ -10,8 +10,9 @@ D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Se
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.AssemblyInfoInputs.cache
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.AssemblyInfo.cs
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.csproj.CoreCompileInputs.cache
-D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.csproj.CopyComplete
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.dll
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\refint\SchoolProject.Services.dll
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.pdb
 D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\ref\SchoolProject.Services.dll
+D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolProject.Services.sourcelink.json
+D:\0p\0163school\school\SchoolProject.Services\obj\Debug\net6.0\SchoolPr.47F5D2AB.Up2Date
