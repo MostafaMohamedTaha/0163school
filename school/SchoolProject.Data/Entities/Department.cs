@@ -16,10 +16,11 @@ namespace SchoolProject.Data.Entities
             Departments = new HashSet<DepartmentSubject>();
 
         }
+        [Key]
         public int DID { get; set; }
         [StringLength(500)]
         public string Name { get; set; }
-        [InverseProperty("Departments")]
+        [InverseProperty("Department")]
         public virtual ICollection<Student> Students { get; set; }
         public virtual ICollection<DepartmentSubject> Departments { get; set; }
     }
