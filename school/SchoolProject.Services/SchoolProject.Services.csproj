@@ -11,4 +11,9 @@
     <ProjectReference Include="..\SchoolProject.Infrastructure\SchoolProject.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstracts\" />
+    <Folder Include="Implementations\" />
+  </ItemGroup>
+
 </Project>
