@@ -3,6 +3,8 @@ using SchoolProject.Infrastructure.Abstractes;
 using SchoolProject.Infrastructure.Data;
 using SchoolProject.Infrastructure;
 using SchoolProject.Infrastructure.Repositories;
+using SchoolProject.Services;
+using SchoolProject.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +24,9 @@ builder.Services.AddDbContext<ApplicationDBContext>(option =>
 //scope used for medium service make new instance for every request
 //singleton used for heavy and stable service make one instance for all request
 //builder.Services.AddTransient<IStudentRepository, StudentRepository>();
-builder.Services.AddInfrastructureDependencies();
+builder.Services.AddInfrastructureDependencies()
+                .AddServiceDependencies()
+                .AddCoreDependencies();
 
 var app = builder.Build();
 
